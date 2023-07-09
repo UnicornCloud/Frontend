@@ -10,6 +10,7 @@ The Hardware level is controlled entirely by OpenStack, Kubernetes, Container AP
 - container: 
 
 # Example:
+```
 ____________________________________
 |            Hardware:             |
 |-SSD-|-ARM64-|-DynamicMem-|-10gbe-|
@@ -33,3 +34,4 @@ ____________________________________
 |        UniStor Filesystem        |
 | Ceph(local)| Backblaze | Perkeep |
 ____________________________________
+```
